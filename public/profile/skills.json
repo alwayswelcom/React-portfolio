@@ -1,14 +1,11 @@
 {
     "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
     "skills": [{
-     
+
             "title": "Languages & Databases",
-            "items" : [
-     
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
+            "items": [
+
+
                 {
                     "icon": "images/skills/php.png",
                     "title": "PHP"
@@ -18,6 +15,10 @@
                     "title": "JavaScript"
                 },
                 {
+                    "icon": "images/skills/ts.png",
+                    "title": "TypeScript"
+                },
+                {
                     "icon": "images/skills/python.png",
                     "title": "Python"
                 },
@@ -25,17 +26,17 @@
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
-        ]},
+            ]
+        },
         {
             "title": "Frameworks & Technologies",
-            "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
+            "items": [{
                     "icon": "images/skills/react.png",
                     "title": "React"
+                },
+                {
+                    "icon": "images/skills/vue.png",
+                    "title": "Vue"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
@@ -44,12 +45,9 @@
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title": "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
+
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
@@ -59,5 +57,6 @@
                     "title": "Docker"
                 }
             ]
-    }
-]}
+        }
+    ]
+}
