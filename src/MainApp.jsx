@@ -1,19 +1,21 @@
-import React, { useState, useEffect, Suspense } from 'react';
+import React, { useEffect, Suspense } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import FallbackSpinner from './components/FallbackSpinner';
 import NavBarWithRouter from './components/NavBar';
 import Home from './components/Home';
+import Skills from './components/Skills';
+import Education from './components/Education';
+import Experience from './components/Experience';
+import About from './components/About';
+import Projects from './components/Projects';
 import endpoints from './constants/endpoints';
 
 function MainApp() {
-  const [data, setData] = useState(null);
-
   useEffect(() => {
     fetch(endpoints.routes, {
       method: 'GET',
     })
       .then((res) => res.json())
-      .then((res) => setData(res))
       .catch((err) => err);
   }, []);
 
@@ -24,19 +26,11 @@ function MainApp() {
         <Switch>
           <Suspense fallback={<FallbackSpinner />}>
             <Route exact path="/" component={Home} />
-            {data
-              && data.sections.map((route) => {
-                const SectionComponent = React.lazy(() => import('./components/' + route.component));
-                return (
-                  <Route
-                    key={route.headerTitle}
-                    path={route.path}
-                    component={() => (
-                      <SectionComponent header={route.headerTitle} />
-                    )}
-                  />
-                );
-              })}
+            <Route path="/about" component={About} />
+            <Route path="/skills" component={Skills} />
+            <Route path="/education" component={Education} />
+            <Route path="/experience" component={Experience} />
+            <Route path="/projects" component={Projects} />
           </Suspense>
         </Switch>
       </main>

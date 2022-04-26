@@ -1,33 +1,41 @@
 {
-    "experiences": [
+    "experiences": [{
+            "title": "Frontend Engineer",
+            "subtitle": "1nance Team",
+            "workType": "Freelancer",
+            "workDescription": [
+                "Developed 1nance.com with Minting, Staking and Farming"
+            ],
+            "dateText": "01/2022 – 3/2022"
+        },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Web Engineer",
+            "subtitle": "Grape Finance Team",
+            "workType": "Freelancer",
+            "workDescription": [
+                "Experienced with blockchain technology especially Solidity and Web3 skills",
+                "Developed grapefinance.app with Minting, Staking and Farming"
+            ],
+            "dateText": "06/2021 – 10/2021"
+        },
+        {
+            "title": "Full-stack web Engineer",
+            "subtitle": "Secret Benefits Ltd",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Wored with React.js and Node.js",
+                "Worked on SecretBenfits.com"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "03/2017 – 11/2020"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Frontend Webapp Developer",
+            "subtitle": "CornerStone’s Professional Placement team",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Developed the official web and webapps for the startup"
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "06/2014 – 11/2016"
         }
     ]
 }

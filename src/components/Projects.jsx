@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import Fade from 'react-reveal/Fade';
 import Header from './Header';
 import endpoints from '../constants/endpoints';
-import ProjectCard from './projects/ProjectCard';
+import ProjectCard from './projectCard/ProjectCard';
 import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
