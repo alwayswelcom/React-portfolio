@@ -1,16 +1,15 @@
 {
-    "social": [
-        {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
+    "social": [{
+            "network": "linkedin",
+            "href": "https://linkedin.com/in/tommy-lee-jsguru/"
         },
         {
-            "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "network": "github",
+            "href": "https://github.com/alwayswelcom"
         },
         {
-            "network" : "email",
-            "href": "mailto:test@test.com"
+            "network": "email",
+            "href": "mailto:tommy.guru41900@gmail.com"
         }
     ]
 }
