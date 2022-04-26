@@ -59,7 +59,7 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Notable Portfolios made using this template
 
-- [Tommy Lee](https://)
+- [Tommy Lee](https://tommy-portfolio.vercel.app)
 
 ## Authors
 
