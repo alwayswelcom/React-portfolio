@@ -213,7 +213,7 @@ It has 2 keys, *logo* and *sections*.
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://linkedin.com/in/tommy-lee-jsguru/"
         },
         {
             "network" : "github",
@@ -221,7 +221,7 @@ It has 2 keys, *logo* and *sections*.
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:tommy.guru41900@gmail.com"
         }
     ]
 }
