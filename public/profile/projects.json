@@ -43,7 +43,7 @@
             "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/Gatsby-metachess"
+                "href": "https://github.com/alwayswelcom/Gatsby-metachess"
             }],
             "tags": [
                 "Gatsby",
