@@ -1,31 +1,3 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/alwayswelcom/dev-portfolio?color=blue)](https://github.com/alwayswelcom/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=alwayswelcom.dev-portfolio&color=blue)
-
-## A minimal portfolio template for Developers!
-
-<h2 align="center">
-  <img src="https://github.com/alwayswelcom/React-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
-  <br>
-</h2>
-
-## Features
-
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ Made with React\
-⚡️ Fully Responsive\
-⚡️ Easily Customizable\
-⚡️ Well organized documentation
-
-## Demo
-
-To view the demo: **[click here](https://dev-portfolio-alwayswelcom.vercel.app)**
-
-## Why do you need a portfolio? ☝️
-
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- better chance of getting work opportunity
-
----
 
 ## Getting Started 🚀
 
@@ -46,7 +18,7 @@ From your command line, first clone Dev Portfolio:
 $ git clone https://github.com/alwayswelcom/React-portfolio
 
 # Move into the repository
-$ cd dev-portfolio
+$ cd React-portfolio
 
 # Remove the current origin repository
 $ git remote remove origin
@@ -95,7 +67,7 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/alwayswelcom/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue](https://github.com/alwayswelcom/React-portfolio/issues) in this repository.
 
 ## License 📄
 
