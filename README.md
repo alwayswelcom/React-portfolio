@@ -1,31 +1,3 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/alwayswelcom/React-portfolio?color=blue)](https://github.com/alwayswelcom/React-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=alwayswelcom.React-portfolio&color=blue)
-
-## A minimal portfolio template for Developers!
-
-<h2 align="center">
-  <img src="https://github.com/alwayswelcom/React-portfolio/blob/master/images/React-portfolio.gif" alt="Dev Portfolio" />
-  <br>
-</h2>
-
-## Features
-
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ Made with React\
-⚡️ Fully Responsive\
-⚡️ Easily Customizable\
-⚡️ Well organized documentation
-
-## Demo
-
-To view the demo: **[click here](https://React-portfolio-alwayswelcom.vercel.app)**
-
-## Why do you need a portfolio? ☝️
-
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- better chance of getting work opportunity
-
----
 
 ## Getting Started 🚀
 
